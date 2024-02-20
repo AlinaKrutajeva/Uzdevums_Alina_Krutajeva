@@ -1,3 +1,5 @@
+**Note: This project doesn't contain node_modules folder, because of large size it couldn't be added to this repository. Please, install Node.js on your computer and initialize it by using 'npm init' command in the terminal.**
+
 <h1>Brief overview of the project!</h1>
 
 This project was created using **Nightwatch.js**. It is a browser automation framework that uses the Selenium WebDriver API to control browser behavior for testing purposes.
