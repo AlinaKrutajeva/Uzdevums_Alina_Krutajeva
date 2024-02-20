@@ -1,0 +1,16 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "https://www.ss.lv/lv/ tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "author": "Alina Krutajeva",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^121.0.2",
+    "nightwatch": "^3.4.1",
+    "selenium-server": "^3.141.59"
+  }
+}
